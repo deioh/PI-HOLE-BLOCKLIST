@@ -1,5 +1,7 @@
 #PI HOLE BLOCKLIST SIR DEI B2
 
+#	SOCIAL MEDIA
+
 # WhatsApp
 whatsapp.com
 web.whatsapp.com
@@ -22,4 +24,34 @@ snapchat.com
 discord.com
 cdn.discordapp.com
 media.discordapp.net
+
+#	STREAMING
+
+# Netflix
+netflix.com
+nflxext.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+
+# Hulu
+hulu.com
+hulustream.com
+
+# Amazon Prime Video
+primevideo.com
+amazonvideo.com
+
+# Disney+
+disneyplus.com
+bamgrid.com
+
+# YouTube
+youtube.com
+googlevideo.com
+
+# Spotify
+spotify.com
+scdn.co
+
 

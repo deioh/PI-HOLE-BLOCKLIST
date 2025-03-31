@@ -32,14 +32,14 @@ media.discordapp.net
 #	STREAMING
 
 # Netflix
-netflix.com
+www.netflix.com
 nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
 
 # Hulu
-hulu.com
+www.hulu.com
 hulustream.com
 
 # Amazon Prime Video
@@ -47,15 +47,15 @@ www.primevideo.com
 www.amazonvideo.com
 
 # Disney+
-disneyplus.com
+www.disneyplus.com
 bamgrid.com
 
 # YouTube
-youtube.com
+www.youtube.com
 googlevideo.com
 
 # Spotify
-spotify.com
+www.spotify.com
 scdn.co
 
 

@@ -43,8 +43,8 @@ hulu.com
 hulustream.com
 
 # Amazon Prime Video
-primevideo.com/*
-amazonvideo.com/*
+www.primevideo.com
+www.amazonvideo.com
 
 # Disney+
 disneyplus.com

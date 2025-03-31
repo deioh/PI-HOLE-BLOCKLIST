@@ -1,7 +1,7 @@
 #PI HOLE BLOCKLIST SIR DEI B2
 
 #	https://deioh.github.io/<repo-name>/blocklist.txt
-#	https://deioh.github.io/PI-HOLE-BLOCKLIST/#PI HOLE BLOCKLIST SIR DEI B2.txt
+#	https://deioh.github.io/PI-HOLE-BLOCKLIST/#PIHOLE_BLOCKLIST_B2.txt
 
 
 #	SOCIAL MEDIA

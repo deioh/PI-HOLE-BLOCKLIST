@@ -12,8 +12,8 @@ web.telegram.org
 signal.org
 
 # Facebook Messenger
-messenger.com
-m.me
+# messenger.com
+# m.me
 
 # Snapchat
 snapchat.com

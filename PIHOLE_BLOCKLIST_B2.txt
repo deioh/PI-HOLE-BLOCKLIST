@@ -1,7 +1,7 @@
 #PI HOLE BLOCKLIST SIR DEI B2
 
 #	https://deioh.github.io/<repo-name>/blocklist.txt
-#	https://deioh.github.io/PI-HOLE-BLOCKLIST/#PIHOLE_BLOCKLIST_B2.txt
+#	https://deioh.github.io/PI-HOLE-BLOCKLIST/PIHOLE_BLOCKLIST_B2.txt
 
 
 #	SOCIAL MEDIA
@@ -43,8 +43,8 @@ hulu.com
 hulustream.com
 
 # Amazon Prime Video
-primevideo.com
-amazonvideo.com
+primevideo.com/*
+amazonvideo.com/*
 
 # Disney+
 disneyplus.com

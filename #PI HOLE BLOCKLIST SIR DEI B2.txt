@@ -1,0 +1,25 @@
+#PI HOLE BLOCKLIST SIR DEI B2
+
+# WhatsApp
+whatsapp.com
+web.whatsapp.com
+
+# Telegram
+telegram.org
+web.telegram.org
+
+# Signal
+signal.org
+
+# Facebook Messenger
+messenger.com
+m.me
+
+# Snapchat
+snapchat.com
+
+# Discord
+discord.com
+cdn.discordapp.com
+media.discordapp.net
+
